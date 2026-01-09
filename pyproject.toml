@@ -17,9 +17,9 @@ dependencies = [
 ]
 keywords = ["roblox", "roblox api", "roblox info", "python", "gaming"]
 urls = { 
-    "Homepage" = "https://github.com/YourGitHub/robloxinfo",
-    "Documentation" = "https://github.com/YourGitHub/robloxinfo",
-    "Source" = "https://github.com/YourGitHub/robloxinfo"
+    "Homepage" = "https://github.com/BilalCord/robloxinfo",
+    "Documentation" = "https://github.com/BilalCord/robloxinfo",
+    "Source" = "https://github.com/BilalCord/robloxinfo"
 }
 
 classifiers = [
